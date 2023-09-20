@@ -1,5 +1,10 @@
-/* styles.css */
-body {
-    background-color: red;
-  }
-  
+/* styles.css */ 
+
+.page1background{
+    background-color: blue;
+}
+
+
+.page2background{
+    background-color: rgb(0, 255, 38);
+}
